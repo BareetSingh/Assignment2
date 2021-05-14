@@ -20,6 +20,6 @@ During this, it will fetch data from the Excel sheet and insert that data into t
 # Note
 You don't have to generate any table in the database. It will generate automatically, You only have to create the database and give the database name in the application.properties file.
 
-#Result
+# Result
 After this, output in my database is as follows:-
 ![image](response_snippets/MongoDB_snippet.png)
